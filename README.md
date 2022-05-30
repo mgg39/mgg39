@@ -2,7 +2,7 @@
 My name is Maria (she/her), I work as a Quantum develloper in Quantum Networking protocol design. My academic background is in Physics with a Bsc from the Univeristy of Bath. I enjoy working on quantum algorithm design and implementations for Quantum Networking and Simulation systems.
 I currently work at Cisco's R&D Quantum development team, and will be participating in GSoC 2022 via the creation of a quantum error correction library.
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)
 
 ### My top languages are-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
