@@ -6,7 +6,7 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
 ### My top languages are: Python, C, C++, Julia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgg39&langs_count=8)](https://github.com/mgg39/github-readme-stats)
 
 <!-- Actual text -->
 
