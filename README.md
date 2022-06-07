@@ -20,6 +20,10 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 
+Here is my open source GitHub Sponsor profile!
+I would greatly appreciate your support. Contributions enable me to dedicate more time to open source development and contributions:
+
+<iframe src="https://github.com/sponsors/mgg39/card" title="Sponsor mgg39" height="225" width="600" style="border: 0;"></iframe>
 <!--
 **cm2435/cm2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
