@@ -10,7 +10,9 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 
 <!-- Actual text -->
 
-### You can find me on [![LinkedIn][1.2]][1].
+### You can find me on:
+<a href="https://linkedin.com/in/maria-gragera-garces/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maria-gragera-garces//github-profile-readme-generator/master/src/images/icons
+[![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
