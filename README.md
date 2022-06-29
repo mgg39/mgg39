@@ -10,8 +10,7 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 
 <!-- Actual text -->
 
-### You can find me on:
-[LinkedIn][1].
+### You can find me on: [LinkedIn][1].
 
 <!-- Links to your social media accounts -->
 
