@@ -15,7 +15,7 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/73605937/176429035-f7be507d-d050-46a6-ab60-01c0ca0b618e.png
+[1.2]: https://user-images.githubusercontent.com/73605937/176429206-78e37f07-c101-46e3-8213-c066a5060437.png
 
 <!-- Links to your social media accounts -->
 
