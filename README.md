@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Maria (she/her), I work as a Quantum developer in Quantum Networking protocol design. My academic background is in Physics with a BSc from the Univeristy of Bath. I enjoy working on quantum algorithm design and implementations for Quantum Networking and Simulation systems. I currently work at Cisco's R&D Quantum development team, and will be participating in GSoC 2022 by building of a quantum error correction library for Julia's Clifford circuit Quantum simulator.
+My name is Maria (she/her), I work as a Quantum developer in Quantum Networking protocol design. My academic background is in Physics with a BSc from the Univeristy of Bath. I enjoy working on quantum algorithm design and implementations for Quantum Networking and Simulation systems. I am currently participating in GSoC 2022 by building of a quantum error correction library for Julia's Clifford circuit Quantum simulator.
 
 I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
 
