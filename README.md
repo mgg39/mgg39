@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Maria (she/her)!
+I'm Maria (she/her)! 
+![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
 
 ### 📚 Background
 I am an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
@@ -10,7 +11,7 @@ A lot of my work revolves around quantum networking. You can follow my readings 
 I have worked in quantum protocol design and testing with Netsquid and Python.
 I am also working on a quantum error correction library for Juia's QUantum Clifford tool.
 I am working on a side by side comparison of quantum networks against classical networks based on various topological distributions.
-![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
+
 
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
