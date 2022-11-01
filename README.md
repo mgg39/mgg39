@@ -25,3 +25,4 @@ In terms of open source I have worked/contributed to the following repos:
 ### You can find me on: [LinkedIn][1].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 
+<img src="https://i.imgur.com/FDtsVRN.gif" width="70%" height="70%"/>
