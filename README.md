@@ -21,9 +21,6 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
 In terms of open source I have worked/contributed to the following repos:
 
-
-<img src="![image](https://user-images.githubusercontent.com/73605937/199311208-680d3d8e-d4a5-4c1d-a288-7a54524e2e30.png)" width="70%" height="70%"/>
-
 ### You can find me on: [LinkedIn][1].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 
