@@ -23,6 +23,7 @@ In terms of open source I have worked/contributed to the following repos:
 
 
 <img src="![image](https://user-images.githubusercontent.com/73605937/199311208-680d3d8e-d4a5-4c1d-a288-7a54524e2e30.png)" width="70%" height="70%"/>
+
 ### You can find me on: [LinkedIn][1].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 
