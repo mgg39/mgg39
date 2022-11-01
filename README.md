@@ -2,11 +2,11 @@
 I'm Maria (she/her)
 
 ### 📚 Background
-I am an undergraduate Physics student at the University of Bath. 
+I am an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
+2021/2022: I completed and industrial year-long placement at Cisco's R&D Quantum Networking team
+Summer 2022: I completed Google Summer of code ...
 
 ### 👩‍💻 Research 
-I enjoy working on quantum algorithm design and implementations for Quantum Networking and Simulation systems. 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
