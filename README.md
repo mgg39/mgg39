@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Maria (she/her)
+I'm Maria (she/her)!
 
 ### 📚 Background
 I am an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
@@ -10,7 +10,7 @@ A lot of my work revolves around quantum networking. You can follow my readings 
 I have worked in quantum protocol design and testing with Netsquid and Python.
 I am also working on a quantum error correction library for Juia's QUantum Clifford tool.
 I am working on a side by side comparison of quantum networks against classical networks based on various topological distributions.
-
+![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
 
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
@@ -20,7 +20,6 @@ I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event
 In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
 In terms of open source I have worked/contributed to the following repos:
 
-![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
 
 ### You can find me on: [LinkedIn][1].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
