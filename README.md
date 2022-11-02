@@ -1,9 +1,9 @@
-### Hi there 👋
-I'm Maria (she/her)! 
 ![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
 
+### Hi there 👋
+
 ### 📚 Background
-I am an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
+I am Maria (she/her), an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
 Between 2021/2022 I completed and industrial year-long placement at Cisco's R&D Quantum Networking team. During the Summer 2022 I was a Google scholar for the Google Summer of code. At the moment I am a GitHub campus excel, with a strong interest in quantum tech.
 
 ### 👩‍💻 Research 
