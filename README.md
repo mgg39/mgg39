@@ -29,4 +29,4 @@ In terms of open source I have worked/contributed to the following repos:
 ### You can find me on: [LinkedIn][1].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgg39&langs_count=8)](https://github.com/mgg39/github-readme-stats)
+
