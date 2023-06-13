@@ -4,7 +4,7 @@
 
 ### 📚 Background
 I am Maria (she/her), an undergraduate Physics student at the University of Bath, who enjoys quantum algorithm design and implementations for Quantum Networking and Simulation systems.
-Between 2021/2022 I completed and industrial year-long placement at Cisco's R&D Quantum Networking team. During the Summer 2022 I was a Google scholar for the Google Summer of code. At the moment I am a GitHub campus expert, with a strong interest in quantum tech.
+Between 2021/2022 I completed and industrial year-long placement at Cisco's R&D Quantum Networking team. During the Summer 2022 I was a Google scholar for the Google Summer of code. At the moment I am a IBM Quantum Intern & GitHub campus expert, with a strong interest in quantum tech.
 
 ### 📝 Research 
 A lot of my work revolves around quantum networking. You can follow my readings in my Quantum-tech-papers repository.
