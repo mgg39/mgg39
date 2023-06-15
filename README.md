@@ -8,17 +8,15 @@ Between 2021/2022 I completed and industrial year-long placement at Cisco's R&D 
 
 ### 📝 Research 
 A lot of my work revolves around quantum networking. You can follow my readings in my Quantum-tech-papers repository.
-I have worked in quantum protocol design and testing with Netsquid and Python.
-I am currently working on a quantum error correction library for Julia's QUantum Clifford tool.
-I am also working on a side by side comparison of quantum networks against classical networks based on various topological distributions.
-
+I have worked in quantum protocol design and testing with Netsquid and Python, a quantum error correction library for Julia's QUantum Clifford tool, and side by side comparisons of quantum networks against classical networks based on various topological distributions.
+At the moment I am experimenting with qiskit and error mitigation libraries.
 
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
-My top languages are: Python, C, Julia.
+My top languages are: Python, Julia & C.
 
-I have experience using: Qiskit, Cirq, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
+I have experience using: Qiskit, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
 In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
 In terms of open source I have worked/contributed to the following repos:
 - SeQUeNCe: an open source Simulator of QUantum Network Communication that allows modeling of quantum networks including photonic network components, control protocols, and applications. that allows modeling of quantum networks including photonic network components, control protocols, and applications. 
