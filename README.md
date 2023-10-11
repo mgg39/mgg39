@@ -11,6 +11,8 @@ A lot of my work revolves around quantum networking. You can follow my readings 
 I have worked in quantum protocol design and testing with Netsquid and Python, a quantum error correction library for Julia's QUantum Clifford tool, and side by side comparisons of quantum networks against classical networks based on various topological distributions.
 At the moment I am experimenting with qiskit and error mitigation libraries.
 
+Alongside my passion for quantum software, I am also currently working on my Bsc dissertation, which consists on Modelling of photon pair generation in dual-rail lithium niobate photonic nano-wire setup. This work is done alongside my project partner, under Dr. Andriy Gorbach and Dr. Peter Mosley at the University of Bath. The project will be completed by May 2024.
+
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
