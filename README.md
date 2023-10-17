@@ -16,7 +16,7 @@ Alongside my passion for quantum software, I am also currently working on my Bsc
 ### 👩‍💻 Code 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
-My top languages are: Python, Julia & C.
+My top languages are: MATLAB, Python, Julia & C.
 
 I have experience using: Qiskit, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
 In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
