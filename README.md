@@ -14,9 +14,9 @@ At the moment I am experimenting with qiskit and error mitigation libraries.
 Alongside my passion for quantum software, I am also currently working on my Bsc dissertation, which consists on Modelling of photon pair generation in dual-rail lithium niobate photonic nano-wire setup. This work is done alongside my project partner, under Dr. Andriy Gorbach and Dr. Peter Mosley at the University of Bath. The project will be completed by May 2024.
 
 ### 👩‍💻 Code 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgg39&count_private=true&show_icons=true&theme=nightowl&hide=prs&hide_rank=true,contribs)
 
-My top languages are: MATLAB, Python, Julia & C.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 I have experience using: Qiskit, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
 In my pinned repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
