@@ -5,10 +5,16 @@
 ### 📚 Background
 I am Maria (she/her), a Quantum Informatics PhD student at the University of Edinburgh, with a passion for quantum software.
 My career thus far looks a bit like this: 
+
 2021/2022 industrial year-long placement at Cisco's R&D Quantum Networking team.
+
 summer 2022 Google Summer of code
+
 2023 GitHub campus expert at the University of Bath
+
 2023-2024 IBM Quantum Intern
+
+
 You can find my full on [LinkedIn][1].
 
 ### 📝 Research 
