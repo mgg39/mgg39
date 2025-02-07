@@ -13,7 +13,7 @@ My career thus far looks a bit like this:
 - 2023/2024 IBM Quantum Intern
 - 2024/2028 PhD Quantum Informatics at the University of Edinburgh
 
-You can find my full on [LinkedIn][1].
+You can find the full story on [LinkedIn][1].
 
 ### 📝 Research 
 My current research focuses on distributed quantum computing, and a lot of my previous work revolved around quantum networking. You can follow my readings in my Quantum-tech-papers repository.
